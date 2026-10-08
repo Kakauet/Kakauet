@@ -1,9 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 440" width="1200" height="440" role="img" aria-label="Kakauet · Guillem Ballester">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="1200" height="320" role="img" aria-label="Kakauet · Guillem Ballester">
 <title>Kakauet · Guillem Ballester</title>
-<style>text{font-family:"Segoe UI", -apple-system, BlinkMacSystemFont, "Helvetica Neue", Arial, sans-serif}
-.glow{animation:flicker 7s infinite}
-@keyframes flicker{0%,100%{opacity:.75}3%{opacity:.3}5%{opacity:.8}6%{opacity:.4}8%{opacity:.75}55%{opacity:.7}57%{opacity:.35}59%{opacity:.75}}
-</style>
+<style>text{font-family:"Segoe UI", -apple-system, BlinkMacSystemFont, "Helvetica Neue", Arial, sans-serif}</style>
 <defs><filter id="wobble" x="-5%" y="-30%" width="110%" height="160%">
   <feTurbulence type="fractalNoise" baseFrequency="0.035" numOctaves="2" seed="4" result="n"/>
   <feDisplacementMap in="SourceGraphic" in2="n" scale="4" xChannelSelector="R" yChannelSelector="G"/>
@@ -27,15 +24,11 @@
 </radialGradient>
 </defs>
 
-<rect x="24" y="22" width="1152" height="392" rx="4" fill="#f3eee3" filter="url(#paper)"/>
-<g filter="url(#soft)">
-  <circle class="glow" cx="932" cy="186" r="128" fill="url(#ember)"/>
-</g>
-<g stroke="#7a1820" stroke-width="3" stroke-linecap="round" opacity=".8" filter="url(#wobble)"><path d="M835 134 L814.2 122"/><path d="M876 93 L864 72.2"/><path d="M932 78 L932 54"/><path d="M988 93 L1000 72.2"/><path d="M1029 134 L1049.8 122"/><path d="M1044 190 L1068 190"/><path d="M820 190 L796 190"/></g>
-<g fill="none" stroke-linecap="round" stroke-linejoin="round" filter="url(#wobble)"><path d="M486 356 C380 334 222 368 120 348 C50 332 44 150 82 108 C150 36 330 60 470 48 C560 40 612 56 684 64 C728 70 740 116 700 118 C660 120 664 74 712 56 C770 36 800 120 800 200 C800 260 850 292 902 290 C902 262 850 245 850 190 C850 140 888 104 932 104 C976 104 1014 140 1014 190 C1014 245 962 262 962 290 C962 270 952 252 950 236 C948 214 916 214 914 236 C912 252 902 270 902 296 C902 304 962 300 960 310 C958 320 902 316 904 326 C906 336 958 332 954 342 C950 350 924 350 920 344 C914 372 934 404 926 440" stroke="#9e1b26" stroke-width="4.2"/></g>
-<g stroke="#9e1b26" stroke-width="1.3" fill="none" stroke-linecap="round" opacity=".8"><path d="M486 356 C494 352 500 346 504 340"/><path d="M486 356 C496 356 504 356 510 358"/><path d="M486 356 C494 362 500 368 502 374"/></g>
-<text x="108" y="226" font-size="112" font-weight="800" letter-spacing="-3" fill="#161c28">Kakauet</text>
-<text x="114" y="276" font-size="32" font-weight="600" fill="#9e1b26">Guillem Ballester</text>
-<text x="114" y="318" font-size="23" font-style="italic" fill="#666a73" style="font-family:Georgia,'Times New Roman',serif">as a kid I wanted to be an inventor. still working on it.</text>
+<rect x="24" y="22" width="1152" height="276" rx="4" fill="#f3eee3" filter="url(#paper)"/>
+<g fill="none" stroke-linecap="round" stroke-linejoin="round" filter="url(#wobble)"><path d="M500 276 C380 258 222 288 120 270 C50 256 44 120 82 78 C150 26 330 44 470 38 C560 32 612 48 684 56 C728 62 740 104 700 106 C660 108 664 66 712 50 C800 22 960 44 1060 74 C1100 86 1120 104 1140 100" stroke="#9e1b26" stroke-width="4.2"/></g>
+<g stroke="#9e1b26" stroke-width="1.3" fill="none" stroke-linecap="round" opacity=".8"><path d="M500 276 C508 272 514 266 518 260"/><path d="M500 276 C510 276 518 276 524 278"/><path d="M500 276 C508 280 514 286 516 292"/></g>
+<g stroke="#9e1b26" stroke-width="1.3" fill="none" stroke-linecap="round" opacity=".8"><path d="M1140 100 C1148 96 1154 90 1158 84"/><path d="M1140 100 C1150 100 1158 100 1164 102"/><path d="M1140 100 C1148 104 1154 110 1156 116"/></g>
+<text x="108" y="180" font-size="112" font-weight="800" letter-spacing="-3" fill="#161c28">Kakauet</text>
+<text x="114" y="232" font-size="32" font-weight="600" fill="#9e1b26">Guillem Ballester</text>
 
 </svg>

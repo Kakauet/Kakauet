@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 160" width="1200" height="160" role="img" aria-label="The red thread drawing a lab flask">
-<title>The red thread drawing a lab flask</title>
-<style>text{font-family:"Segoe UI", -apple-system, BlinkMacSystemFont, "Helvetica Neue", Arial, sans-serif}</style>
-<defs><filter id="wobble" x="-5%" y="-30%" width="110%" height="160%">
-  <feTurbulence type="fractalNoise" baseFrequency="0.035" numOctaves="2" seed="4" result="n"/>
-  <feDisplacementMap in="SourceGraphic" in2="n" scale="4" xChannelSelector="R" yChannelSelector="G"/>
-</filter></defs>
-<g transform="translate(0 14)"><path d="M551 104 L648 104 L668 132 L532 132 Z" fill="#9e1b26" opacity=".12"/><g fill="none" stroke-linecap="round" stroke-linejoin="round" filter="url(#wobble)"><path d="M0 126 C150 120 330 132 470 128 C500 127 520 130 532 132 L668 132 L620 64 L620 26 C620 20 624 18 630 16 L570 16 C576 18 580 20 580 26 L580 64 L551 104 C562 98 574 110 588 104 C602 98 614 110 628 104 C636 101 642 102 648 104 C640 96 630 98 628 90 C626 82 638 80 636 88 C634 96 620 92 618 82 C616 72 606 70 604 62 C602 56 610 52 612 58 C614 64 602 66 600 56 C598 46 600 36 600 30 C600 4 668 -6 700 40 C724 76 760 126 860 126 C980 126 1100 120 1200 124" stroke="#9e1b26" stroke-width="3.6"/></g></g>
-</svg>
