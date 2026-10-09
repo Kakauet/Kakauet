@@ -1,1 +1,1 @@
-<img src="assets/banner.svg" alt="Kakauet · Guillem Ballester" width="100%">
+<img src="assets/banner.png" alt="Kakauet · Guillem Ballester" width="100%">
